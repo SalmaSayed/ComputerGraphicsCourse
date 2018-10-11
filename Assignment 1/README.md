@@ -1,8 +1,8 @@
-##problem Statement
-###Draw as much as you can from the following shapes.
+## problem Statement
+### Draw as much as you can from the following shapes.
 ![alt text](https://i.imgur.com/dclaWav.jpg "Assignment 1")
 
-##Implementation 
+## Implementation 
 i wrote a function for each shape then i called it in drawScene function 
 by translate the origin in a specified point to draw as many shapes in the same window .
 

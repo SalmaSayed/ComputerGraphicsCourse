@@ -1,7 +1,7 @@
 # Assignment 2
 ### Problem
 Make a simulation of a scientific principle.  
-This assignment was made in association with [Salma Sayed](https://github.com/SalmaSayed).
+This assignment was made in association with [Amr Saber](https://github.com/AmrSaber).
 
 ### Solution
 We chose to simulate the "[Solids Of Revolution](https://en.wikipedia.org/wiki/Solid_of_revolution)" which refers to the surfaces that are formed from rotating mathematical functions about one of the Cartesian axes, check the link for more details.  
